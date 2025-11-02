@@ -1,0 +1,7 @@
+{
+  "name": "Simulador de Vendas AI",
+  "description": "Uma plataforma para equipas de vendas praticarem roleplays de chamadas de qualificação ao vivo com um agente de IA em áudio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
